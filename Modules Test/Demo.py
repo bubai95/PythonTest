@@ -10,4 +10,4 @@ def main():
     print(div(x,y))
 
 if __name__=='__main__':
-    main()
+    main()                      #calling main function
